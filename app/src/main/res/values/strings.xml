@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="txtAmt"> User Amount</string>
+    <string name="dollarSign">$</string>
+    <string name="txtYourTip">Your Tip: </string>
+    <string name="rad10">10%</string>
+    <string name="rad15">15%</string>
+    <string name="rad20">20%</string>
+    <string name="txtTip">Tip: </string>
+    <string name="txtTotal">Total: </string>
+
+</resources>
